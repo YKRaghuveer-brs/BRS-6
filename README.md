@@ -3,4 +3,4 @@
 ###### Purpose:
     To create a simple Portfolio on web.
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/design/portfolio)."# BRS-6" 
+#### Dear Students, Check out the live app [here](https://ykraghuveer-brs.github.io/BRS-6/)."# BRS-6" 
